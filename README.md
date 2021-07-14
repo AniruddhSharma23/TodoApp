@@ -1,4 +1,4 @@
 # TodoApp
-An app where you can keep track of your daily tasks.
-Add your items and then you can select the checkbox to delete them.
-made using Javascript, MongoDB, Express, NodeJS.
+Designed a full-stack Web-App to manage user day-to-day tasks using JavaScript, NodeJs, MongoDB.
+Implemented functionalities to store tasks related to different fields and delete them after completion.
+Simplified Html DOM tree traversal, manipulation, and event handling using jQuery. Store the data in JSON format using MongoDB. Implemented Data Validation using Mongoose. Handled the server-side requests and responses using ExpressJs.
